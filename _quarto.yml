@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Marc Kaufmann"
+  search: false
+  navbar:
+    tools:
+      - icon: github
+        href: https://github.com/MarcKaufmann
+        text: "GitHub"
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=1H2OwSwAAAAJ&hl=en
+        text: "Google Scholar"
+      - icon: file-earmark-pdf
+        href: files/CV.pdf
+        text: "CV"
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

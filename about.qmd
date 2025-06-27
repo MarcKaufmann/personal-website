@@ -1,0 +1,20 @@
+---
+title: "About Me"
+---
+
+I am an Associate Professor at the Department of Economics and Business at Central European University. I graduated from Harvard University with a PhD in Economics in 2017.
+
+I do applied theory in what will soon be what was used to be known as behavioral economics. My current research projects center on motivated thinking and beliefs, as well as socially responsible behaviors.
+
+[**📄 Download CV**](files/CV.pdf)
+
+
+## Education
+
+-   **Ph.D. in Economics**, Harvard University (2011–2017)
+
+-   **M.Sc. in Economics**, Université Libre de Bruxelles (2009–2011)
+
+-   **M.Math.**, Cambridge University (2007–2008)
+
+-   **B.A. in Mathematics**, Cambridge University (2004–2007)
