@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Marc Kaufmann",
     "section": "",
-    "text": "I am an Associate Professor at the Department of Economics and Business at Central European University. I graduated from Harvard University with a PhD in Economics in 2017.\nI do applied theory in what will soon be what was used to be known as behavioral economics. My current research projects center motivated thinking and beliefs, as well as socially responsible behaviors."
+    "text": "📄 CV\n\nI am an Associate Professor at the Department of Economics and Business at Central European University. I graduated from Harvard University with a PhD in Economics in 2017.\nI do applied theory in what will soon be what was used to be known as behavioral economics. My current research projects center motivated thinking and beliefs, as well as socially responsible behaviors."
   },
   {
     "objectID": "about.html",
@@ -32,12 +32,19 @@
     "href": "index.html#working-papers",
     "title": "Marc Kaufmann",
     "section": "Working Papers",
-    "text": "Working Papers\n\nF. Fallucchi and M. Kaufmann. Arbitraging Narrow Bracketers, 2025. (Reject and resubmit at JEEA)\nM. Kaufmann, M. Kornemann, and B. Kőszegi. How Secondary Markets Undermine Social Responsibility, 2025.\nM. Kaufmann and M. Köster. The Dynamics of Chosen Beliefs: An Optimism-Confidence Trade-Off, 2025.\nL. F. Drucker and M. Kaufmann. Excuse-Driven Present Bias, 2022."
+    "text": "Working Papers\n\nF. Fallucchi and M. Kaufmann. Arbitraging Narrow Bracketers, 2025.\nM. Kaufmann, M. Kornemann, and B. Kőszegi. Social Responsibility in Secondary Markets, 2025.\nM. Kaufmann and M. Köster. The Dynamics of Chosen Beliefs: An Optimism-Confidence Trade-Off, 2025.\nL. F. Drucker and M. Kaufmann. Excuse-Driven Present Bias, 2022."
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\nPh.D. in Economics, Harvard University (2011–2017)\nM.Sc. in Economics, Université Libre de Bruxelles (2009–2011)\nM.Math., Cambridge University (2007–2008)\nB.A. in Mathematics, Cambridge University (2004–2007)"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Marc Kaufmann",
     "section": "Education",
     "text": "Education\n\nPh.D. in Economics, Harvard University (2011–2017)\nM.Sc. in Economics, Université Libre de Bruxelles (2009–2011)\nM.Math., Cambridge University (2007–2008)\nB.A. in Mathematics, Cambridge University (2004–2007)"
   }

@@ -4,7 +4,9 @@ title: "Marc Kaufmann"
 
 ::::: columns
 ::: {.column width="30%"}
-![](images/marckaufmann-01.jpg){fig-alt="Marc Kaufmann" fig-align="left"}
+![](images/marckaufmann-02.png){fig-alt="Marc Kaufmann" fig-align="left"}
+[📄 CV](files/CV.pdf "Curriculum Vitae")
+
 :::
 
 ::: {.column style="margin: 1rem;"}
@@ -14,6 +16,15 @@ I do applied theory in what will soon be what was used to be known as behavioral
 :::
 :::::
 
+## Education
+
+-   **Ph.D. in Economics**, Harvard University (2011–2017)
+
+-   **M.Sc. in Economics**, Université Libre de Bruxelles (2009–2011)
+
+-   **M.Math.**, Cambridge University (2007–2008)
+
+-   **B.A. in Mathematics**, Cambridge University (2004–2007)
 
 ## Publications
 
@@ -31,9 +42,9 @@ I do applied theory in what will soon be what was used to be known as behavioral
 
 ## Working Papers
 
-1.  F. Fallucchi and M. Kaufmann. [*Arbitraging Narrow Bracketers*](https://doi.org/10.48550/arXiv.2101.04529), 2025. (Reject and resubmit at JEEA)
+1.  F. Fallucchi and M. Kaufmann. [*Arbitraging Narrow Bracketers*](https://doi.org/10.48550/arXiv.2101.04529), 2025.
 
-2.  M. Kaufmann, M. Kornemann, and B. Kőszegi. *How Secondary Markets Undermine Social Responsibility*, 2025.
+2.  M. Kaufmann, M. Kornemann, and B. Kőszegi. [*Social Responsibility in Secondary Markets*](files/second-hand-markets.pdf), 2025.
 
 3.  M. Kaufmann and M. Köster. [*The Dynamics of Chosen Beliefs: An Optimism-Confidence Trade-Off*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5013237), 2025.
 
