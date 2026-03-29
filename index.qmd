@@ -10,9 +10,9 @@ title: "Marc Kaufmann"
 :::
 
 ::: {.column style="margin: 1rem;"}
-I am an Associate Professor at the Department of Economics and Business at Central European University. I graduated from Harvard University with a PhD in Economics in 2017.
+I am an Associate Professor at the Department of Economics at Central European University. I graduated from Harvard University with a PhD in Economics in 2017.
 
-I do applied theory in what will soon be what was used to be known as behavioral economics. My current research projects center motivated thinking and beliefs, as well as socially responsible behaviors.
+I do applied theory in behavioral economics. My current research projects focus on socially responsible behavior and on long-term beliefs. 
 :::
 :::::
 
