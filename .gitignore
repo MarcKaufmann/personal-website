@@ -3,5 +3,6 @@
 .RData
 .Ruserdata
 update-site.sh
+.DS_Store
 
 /.quarto/
