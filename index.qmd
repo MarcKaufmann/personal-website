@@ -13,6 +13,8 @@ title: "Marc Kaufmann"
 I am an Associate Professor at the Department of Economics at Central European University. I graduated from Harvard University with a PhD in Economics in 2017.
 
 I do applied theory in behavioral economics. My current research projects focus on socially responsible behavior and on long-term beliefs. 
+
+Together with [Bogdan Popa](defn.io) and, more recently, [Joel Dueck](https://joeldueck.com/), I co-developed [Congame](https://github.com/MarcKaufmann/congame) -- a programmable platform for building & running economic experiments and surveys.
 :::
 :::::
 
