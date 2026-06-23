@@ -4,14 +4,14 @@ title: "Social Responsibility in Markets and Beyond"
 
 The research project *Social Responsibility in Markets and Beyond* is supported by
 the Oesterreichische Nationalbank (OeNB, the Austrian National Bank) under its
-Anniversary Fund (Jubiläumsfonds), project No. 19068. The project runs from
+Anniversary Fund ([Jubiläumsfonds](https://www.oenb.at/Ueber-Uns/Forschungsfoerderung/Jubilaeumsfonds.html)), project No. 19068. The project runs from
 1 October 2025 to 30 September 2028.
 
 ## Project members
 
-- Marc Kaufmann, principal investigator (PI), Central European University, Vienna
-- Botond Kőszegi, international collaboration partner, University of Bonn
-- Peter Ward-Griffin, postdoctoral researcher, Central European University, Vienna
+- [Marc Kaufmann](index.qmd), principal investigator (PI), Central European University, Vienna
+- [Botond Kőszegi](https://www.wiwi.uni-bonn.de/koszegi/), international collaboration partner, University of Bonn
+- [Peter Ward-Griffin](https://sites.google.com/view/peterwardgriffin/research), postdoctoral researcher, Central European University, Vienna
 
 ## Synopsis
 
@@ -37,6 +37,10 @@ work clarifies when decentralized individual action can complement, or even
 substitute for, the centralized policies that have proven so hard to enact — and thus
 when it can genuinely help address problems like climate change.
 
+## Working papers
+
+1.  M. Kaufmann, M. Kornemann, and B. Kőszegi. [*Social Responsibility in Secondary Markets*](files/second-hand-markets.pdf), 2025.
+
 ## Background
 
 The project builds directly on the published foundation
@@ -48,4 +52,4 @@ The project builds directly on the published foundation
 
 which develops the consumer side of this framework, and extends it to producers and
 investors, to dynamic and non-market settings, and to large-scale market experiments.
-Working papers from the project will be posted here as they become available.
+Further working papers from the project will be added above as they become available.

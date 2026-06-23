@@ -18,10 +18,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: Research
-        menu:
-          - href: social-responsibility.qmd
-            text: "Social Responsibility in Markets and Beyond (OeNB)"
+      - href: social-responsibility.qmd
+        text: "Jubiläumsfonds Grant"
 
 format:
   html:
