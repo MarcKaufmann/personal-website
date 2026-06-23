@@ -1,0 +1,51 @@
+---
+title: "Social Responsibility in Markets and Beyond"
+---
+
+The research project *Social Responsibility in Markets and Beyond* is supported by
+the Oesterreichische Nationalbank (OeNB, the Austrian National Bank) under its
+Anniversary Fund (Jubiläumsfonds), project No. 19068. The project runs from
+1 October 2025 to 30 September 2028.
+
+## Project members
+
+- Marc Kaufmann, principal investigator (PI), Central European University, Vienna
+- Botond Kőszegi, international collaboration partner, University of Bonn
+- Peter Ward-Griffin, postdoctoral researcher, Central European University, Vienna
+
+## Synopsis
+
+As climate change and other environmental problems grow more pressing, more people
+try to reduce the harm their own behavior causes — as consumers, investors, workers,
+and voters. Standard economics struggles to explain this: a small actor is usually
+treated as a price taker with no impact, so caring about the greater good should not
+change how she behaves. Yet while a small consumer's effect on prices does vanish,
+her effect on aggregate quantities — and hence on externalities — does not
+(Kaufmann et al., 2024), so a person who cares about that effect will take it into
+account.
+
+Three theoretical strands build on this. One asks whether second-hand markets, often
+promoted as green, can instead undermine social responsibility by turning resale
+value into an effective subsidy for buying new goods. A second asks how far
+individual-level social responsibility can substitute for Pigouvian taxation — the
+classical but politically hard-to-implement remedy for externalities — by
+establishing the conditions under which competitive markets reach an efficient
+outcome when people act responsibly both as consumers and as investors. A third
+carries the framework beyond markets to settings such as social norms, where
+individuals may change their own behavior in order to shift the norm. Together, this
+work clarifies when decentralized individual action can complement, or even
+substitute for, the centralized policies that have proven so hard to enact — and thus
+when it can genuinely help address problems like climate change.
+
+## Background
+
+The project builds directly on the published foundation
+
+- Kaufmann, Marc, Peter Andre, and Botond Kőszegi.
+  "Understanding Markets with Socially Responsible Consumers."
+  *The Quarterly Journal of Economics* (2024).
+  [doi:10.1093/qje/qjae009](https://doi.org/10.1093/qje/qjae009)
+
+which develops the consumer side of this framework, and extends it to producers and
+investors, to dynamic and non-market settings, and to large-scale market experiments.
+Working papers from the project will be posted here as they become available.
